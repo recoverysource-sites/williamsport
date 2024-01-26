@@ -3,7 +3,7 @@ title: Meetings
 layout: single
 ---
 
-{{< meeting-map zoom=7 latitude=41.24 longitude=-77.00 >}}
+{{< meeting-map zoom=8 latitude=41.70 longitude=-77.00 >}}
 
 ----
 

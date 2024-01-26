@@ -1,0 +1,10 @@
+name = "Area59District48AA"
+license = "GPLv2"
+licenselink = "https://github.com/recoverysource/aamod/blob/master/LICENSE.md"
+description = "Modification to aamod"
+tags = ["aa", "alcoholics anonymous", "responsive"]
+features = ["aa", "alcoholics anonymous", "responsive"]
+min_version = "0.48"
+[author]
+  name = "Michael Lustfield"
+  homepage = "https://michael.lustfield.net"
