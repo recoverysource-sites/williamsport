@@ -1,0 +1,14 @@
+---
+title: York Potluck
+date: 2024-01-28
+menu: side
+---
+
+**When:** Sunday, 28 January 2024
+<!--more-->
+
+**Time:** 2:00 PM to 5:00 PM
+
+**Where:** [JFT Recovery](/meetings/TODO/) # TODO
+
+- [Flyer](/events/york-potluck.pdf)
