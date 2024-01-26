@@ -1,0 +1,50 @@
+baseURL: https://williamsport.recoverysource.io/
+title: Greater Williamsport, PA (District 53) AA
+
+languageCode: en-us
+theme: [aamod, mainroad]
+sectionPagesMenu: main
+paginate: 100
+buildFuture: true
+
+Params:
+  description: Greater Williamsport, PA (District 53) Alcoholics Anonymous
+  source: https://github.com/recoverysource/williamsport
+  #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
+  mapapikey: "AIzaSyB5hKG5VIASVlBBaDjNXUYxmw3CR_wSzLY"
+  copyright: Greater Williamsport AA
+  phone: 570-666-1448
+  logo:
+    image: img/AAlogo.png
+    title: Greater Williamsport AA
+  toc: true
+  mainSections: [home, meetings, about, events]
+  sidebar:
+    single: right
+    home: right
+    widgets: [resources, eventsidemenu, aasites]
+  widgets:
+
+    resources:
+      cached: true
+      links:
+      - title: Meeting Schedule
+        url: /meeting-schedule.pdf
+      - title: Big Book Online
+        url: https://www.aa.org/bigbookonline/
+
+    aasites:
+      cached: true
+      links:
+      - title: A.A. Area 59 (Eastern PA)
+        url: https://area59aa.org/
+      - title: A.A. World Services
+        url: https://www.aa.org/
+      - title: A.A. Grapevine
+        url: http://www.aagrapevine.org/
+
+markup:
+  goldmark:
+    renderer:
+      # Permit raw HTML in content
+      unsafe: true
