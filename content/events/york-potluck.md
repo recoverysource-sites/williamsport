@@ -9,6 +9,6 @@ menu: side
 
 **Time:** 2:00 PM to 5:00 PM
 
-**Where:** [JFT Recovery](/meetings/TODO/) # TODO
+**Where:** JFT Recovery, 1337 E Market St
 
 - [Flyer](/events/york-potluck.pdf)

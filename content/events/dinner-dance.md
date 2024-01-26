@@ -9,6 +9,6 @@ menu: side
 
 **Time:** 6:00 PM to 10:00 PM
 
-**Where:** [Pine Street Methodist Church](/meetings/TODO/) # TODO
+**Where:** [Pine Street Methodist Church](/meetings/pine-street/)
 
 - [Flyer](/events/ourloveforaadinnerdance2024.pdf)

@@ -2,7 +2,8 @@
 # Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
 # Documentation: https://recoverysource.io/aamod/prebuild.html
 ##
-baseURL: https://williamsport.recoverysource.io/
+baseURL: https://district48aa.org/
+title: Greater Williamsport AA
 
 # List of content to build
 #builders: [stubs, pdf]
@@ -20,9 +21,9 @@ meeting-data: data/meetings.yaml
 # Number of columns used to display content
 pdf-cols:
   # Columns used on the second page (full sheet)
-  aalist: 2
+  aalist: 3
   # Columns used on the front (quarter sheet)
-  anonlist: 1
+  #anonlist: 2
 
 # Content that is dropped into the generated .tex file
 pdf-blurbs:
@@ -43,10 +44,11 @@ pdf-blurbs:
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   # Links to additional resources on back of folded booklet
   resources: |
-    {\7pt\textbf{Greater Williamsport:} district48aa.org/meeting-times}\\
-    {\7pt\textbf{Eastern PA:} area59aa.org
+    {\7pt\textbf{Williamsport Area:} district48aa.org/meetings}\\
+    {\7pt\textbf{Eastern PA:} area59aa.org}
   # Informational box on bottom-right of back (second) page
   details: |
     \textbf{District 48 Meeting}\\
     Meets at: Montoursville Step Group\\
+    Presbyterian Church, 900 Elm St\\
     {\6pt Every 2nd Wednesday of the month at 7:00 PM}

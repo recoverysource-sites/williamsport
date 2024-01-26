@@ -1,0 +1,420 @@
+# Use of space in this file is important.
+#
+# Basic Format (can exclude 'note:' and 'provides'):
+# - Valid "type" codes: https://github.com/code4recovery/spec#meeting-types
+#   EN:English, B:BigBook, C:Closed, O:Open, 12x12:TwelveByTwelve, D:Discussion,
+#   SP:Speaker, ST:StepStudy, TR:TraditionStudy, X:WheelchairAccess, BA:Babysitting
+#
+#<shortname>:
+#  name: <Name of Place>
+#  time:
+#    Sunday: ["00:00", "13:00"]
+#    Monday: ["00:00", "13:00"]
+#  place: <Name of Building>
+#  address: <Mailing Address of Location>
+#  note: |
+#      First "note" line appears on meeting-schedule.pdf.
+#      <br />Additional lines require the "<br />" tag
+#  type: [EN, B, TR]
+#  # Optional Fields
+#  longitude: 0.0
+#  latitude: 0.0
+#  hidefrom: [map, pdf, json]
+
+
+sunday-alanon:
+  name: Sunday Night Al-Anon
+  time:
+    Sunday: ["19:00"]
+  place: Faxon-Kenmar UMC 
+  address: 1301 Clayton Ave, Williamsport, PA, 17701
+  longitude: -76.96753791817211
+  latitude: 41.2546268081509
+  type: [EN, AL-AN, O, D, X]
+
+monday-alanon:
+  name: Hope Starts Here
+  time:
+    Monday: ["19:00"]
+  place: Christ Episcopal Church
+  address: 426 Mulberry St, Williamsport, PA, 17701
+  longitude: -77.0006430605008
+  latitude: 41.24364610272944
+  type: [EN, AL-AN, O, BA]
+
+wake-up-sober:
+  name: Wake Up Sober
+  time:
+    Sunday: ["10:00"]
+  address: zoom,Online-Only,,
+  longitude: -1
+  latitude: -1
+  note: |
+      Link is available online.
+      <b>Zoom:</b> <a href="https://us02web.zoom.us/j/84352241003?pwd=Vm82TDlod0pITG5hVVNxOE9lZEVjUT09">https://us02web.zoom.us/j/84352241003</a>,
+      <b>Meeting:</b> 843-5224-1003 <b>Password:</b> 709692
+  type: [EN, C, D]
+
+pass-it-on:
+  name: Pass It On
+  time:
+    Monday: ["19:00"]
+  address: zoom,Online-Only,,
+  longitude: -1
+  latitude: -1
+  note: |
+      Link is available online.
+      <b>Zoom:</b> <a href="https://us02web.zoom.us/j/5748311805?pwd=ZE1FMC9VampQT0NlelhLc01pT2xxQT09">https://us02web.zoom.us/j/5748311805</a>,
+      <b>Meeting:</b> 574-831-1805 <b>Password:</b> ???
+  type: [EN, C]
+
+serenity-hour:
+  name: Serenity Hour
+  time:
+    Sunday: ["14:00"]
+  place: St. Josephs School Basement
+  address: 711 W Edwin St, Williamsport, PA, 17701
+  longitude: -77.01443888054294
+  latitude: 41.240499682631906
+  type: [EN, O, D, X]
+
+staying-sober:
+  name: Staying Sober
+  time:
+    Sunday: ["19:00"]
+  place: Penn College of Technology
+  address: 1 College Ave, Williamsport, PA, 17701
+  longitude: -77.0286261605011
+  latitude: 41.23461302230297
+  note: Masks are optional.
+  type: [EN, O, D, X]
+
+the-solution:
+  name: The Solution
+  time:
+    Sunday: ["19:00"]
+    Wednesday: ["10:00"]
+  place: S. Williamsport UMC
+  address: 409 Main St, South Williamsport, PA, 17702
+  longitude: -76.99072051816263
+  latitude: 41.23234673135839
+  type: [EN, O, D, X]
+
+sunday-bigbook:
+  name: Sunday Night Big Book
+  time:
+    Sunday: ["19:00"]
+  place: American Rescue Workers
+  address: 643 Elmira St, Williamsport, PA, 17701
+  longitude: -77.00928818748535
+  latitude: 41.245476010847476
+  type: [EN, O]
+
+morning-group:
+  name: St. Josephs Morning Meeting
+  time:
+    Monday: ["10:00"]
+    Tuesday: ["10:00"]
+    Wednesday: ["10:00"]
+    Thursday: ["10:00"]
+    Friday: ["10:00"]
+  place: St. Josephs School Basement
+  address: 711 W Edwin St, Williamsport, PA, 17701
+  longitude: -77.01454754515737
+  latitude: 41.240563354589376
+  note: |
+      Format Varies
+      <br />Monday - Step Meeting
+      <br />Tuesday - Big Book
+      <br />Wedneday - Grapevine
+      <br />Thu-Fri - Discussion
+  type: [EN, O, D, ST, B]
+
+lunch-hour-group:
+  name: Lunch Hour Group
+  time:
+    Monday: ["12:05"]
+    Tuesday: ["12:05"]
+    Wednesday: ["12:05"]
+    Thursday: ["12:05"]
+    Friday: ["12:05"]
+    Saturday: ["12:05"]
+  place: St. Josephs School Basement
+  address: 711 W Edwin St, Williamsport, PA, 17701
+  longitude: -77.01454754515737
+  latitude: 41.240563354589376
+  type: [EN, O]
+
+muncy-crossroads:
+  name: Muncy Crossroads Meeting
+  time:
+    Monday: ["12:00"]
+    Thursday: ["12:00"]
+  place: Crossroads Church
+  address: 628 E Penn St, Muncy, PA, 17756
+  longitude: -76.7717056316663
+  latitude: 41.205375840361185
+  note: Masks are optional.
+  type: [EN, O, D, X]
+
+muncy-umc:
+  name: Muncy UMC Meeting
+  time:
+    Wednesday: ["19:00"]
+    Thursday: ["19:00"]
+    Saturday: ["08:00"]
+  place: First UMC Muncy
+  address: 602 S Market St, Muncy, PA, 17756
+  longitude: -76.78776729118955
+  latitude: 41.193709285418926
+  type: [EN, O, D, X]
+
+step-11-meditation:
+  name: 11th Step Meditation Group
+  time:
+    Monday: ["18:30"]
+  place: Liberty Church
+  address: 102 E 3rd St, Williamsport, PA, 17701
+  longitude: -76.9989251874732
+  latitude: 41.24188141450402
+  note: |
+      Use enterance on Mulberry St.
+      <br />Masks are optional.
+      <br /><br />This is a Special Interest group.
+  type: [EN, O, D]
+
+pine-street:
+  name: Pine Street Group
+  time:
+    Monday: ["19:00"]
+    Tuesday: ["19:00"]
+  place: Pine Street Methodist Church
+  address: 441 Pine St, Williamsport, PA, 17701
+  longitude: -77.0048617316649
+  latitude: 41.24227158728978
+  note: Use side entrance (Wesley Hall)
+  type: [EN, O, D, X]
+
+duboistown:
+  name: Duboistown Group
+  time:
+    Monday: ["19:00"]
+    Thursday: ["19:00"]
+  place: Duboistown Church
+  address: 133 Summer St, Duboistown, PA, 17702
+  longitude: -77.03318124700044
+  latitude: 41.22566692375747
+  type: [EN, O, D]
+
+picture-rocks:
+  name: Picture Rocks
+  time:
+    Monday: ["19:00"]
+  place: Baptist Church
+  address: 50 Elm St, Hughesville, PA, 17737
+  longitude: -76.71239834700711
+  latitude: 41.27945937508736
+  type: [EN, C, D]
+
+just-do-it:
+  name: Just Do It
+  time:
+    Tuesday: ["19:00"]
+  place: St. Johns Lutheran Church
+  address: 222 S Broad St, Jersey Shore, PA, 17740
+  longitude: -77.2567058451589
+  latitude: 41.20086333348862
+  note: Masks are Required!
+  type: [EN, O, X]
+
+trout-run:
+  name: Trout Run Group
+  time:
+    Tuesday: ["19:00"]
+  place: Trout Run UMC
+  address: 78 Creamery St, Trout Run, PA, 17771
+  longitude: -77.05687674510635
+  latitude: 41.386436687471424
+  type: [EN, O, D, X]
+
+tnl:
+  name: Tuesday Night Live
+  time:
+    Tuesday: ["19:00"]
+  place: Shepherd of the Hills Church
+  address: 116 Carpenter St, Dushore, PA, 18614
+  longitude: -76.39358401631087
+  latitude: 41.52535735866996
+  type: [EN, O, X]
+
+veterans-and-friends:
+  name: Veterans and Friends in Recovery
+  time:
+    Tuesday: ["19:00"]
+  place: Lutheran Church of the Redeemer
+  address: 1101 Washington Blvd, Williamsport, PA, 17701
+  longitude: -76.98373791632118
+  latitude: 41.24979700089294
+  note: Use enterance on Sherman St.
+  type: [EN, C]
+
+new-beginning:
+  name: New Beginning Group
+  time:
+    Tuesday: ["19:00"]
+  place: Episcopal Church of the Savior
+  address: 31 N Loyalsock Ave, Montoursville, PA, 17754
+  longitude: -76.92763337399285
+  latitude: 41.25094693632568
+  type: [EN, O, X]
+
+common-solution:
+  name: A Common Solution
+  time:
+    Wednesday: ["17:30"]
+  place: Liberty Church
+  address: 102 E 3rd St, Williamsport, PA, 17701
+  longitude: -76.99895735864966
+  latitude: 41.241760477811184
+  note: |
+      Link is available online.
+      <b>Zoom:</b> <a href="https://us02web.zoom.us/j/84352241003?pwd=Vm82TDlod0pITG5hVVNxOE9lZEVjUT09">https://us02web.zoom.us/j/84352241003</a>,
+      <b>Meeting:</b> 843-5224-1003 <b>Password:</b> <none>
+  type: [EN, O, D, SP]
+
+free-to-be:
+  name: Free To Be
+  time:
+    Wednesday: ["18:00"]
+  place: Pajama Factory
+  address: 1307 Park Ave, Williamsport, PA, 17701
+  longitude: -77.03332790282907
+  latitude: 41.24256716947691
+  note: 1st Floor / Other Space / Allen Street side
+  type: [EN, O, D, X]
+
+up-the-creek:
+  name: Up the Creek Meeting
+  time:
+    Wednesday: ["19:00"]
+    Friday: ["19:00"]
+    Saturday: ["19:00"]
+  place: West End Christian Community Center
+  address: 901 Diamond St, Williamsport, PA, 17701
+  longitude: -77.05608453350429
+  latitude: 41.23952273270303
+  type: [EN, O, D, X]
+
+montoursville-group:
+  name: Montoursville Step Group
+  time:
+    Thursday: ["19:00"]
+  place: Montoursville Presbyterian Church
+  address: 900 Elm St, Montoursville, PA, 17754
+  longitude: -76.913955945157
+  latitude: 41.25112520509534
+  note: District 48 Monthly Meeting Held Here
+  type: [EN, O, D, X]
+
+jersey-shore-step:
+  name: Jersey Shore Step Meeting
+  time:
+    Thursday: ["19:00"]
+  place: Trinity UMC
+  address: 1407 Allegheny St, Jersey Shore, PA, 17740
+  longitude: -77.2745475028305
+  latitude: 41.201285660846395
+  type: [EN, O]
+
+williamsport-women:
+  name: Williamsport Womens Meeting
+  time:
+    Thursday: ["19:00"]
+  place: First United Methodist Church
+  address: 604 Market St, Williamsport, PA, 17701
+  longitude: -77.00421781817245
+  latitude: 41.24529173827034
+  note: Room 102
+  type: [EN, C, X, W]
+
+williamsport-friday:
+  name: Friday Night Group
+  time:
+    Friday: ["19:30"]
+  place: First United Methodist Church
+  address: 604 Market St, Williamsport, PA, 17701
+  longitude: -77.00421781817245
+  latitude: 41.24529173827034
+  note: Room 102
+  type: [EN, O, X]
+
+search-for-sobriety:
+  name: Search for Sobriety
+  time:
+    Thursday: ["20:00"]
+  place: Sullivan County Medical Center
+  address: 217 King St, Laporte, PA, 18626
+  longitude: -76.49489861631467
+  latitude: 41.423593036615415
+  type: [EN, O, D]
+
+friday-morning:
+  name: Friday Morning Meeting
+  time:
+    Friday: ["10:00"]
+  place: St. Anns Church
+  address: 1220 Northway Rd, Williamsport, PA, 17701
+  longitude: -76.97033815864935
+  latitude: 41.253556805395164
+  type: [EN, O, D, X]
+
+mens-step:
+  name: Mens Step Meeting
+  time:
+    Friday: ["18:00"]
+  place: Trinity Episcopal Church
+  address: 844 W 4th St, Williamsport, PA, 17701
+  longitude: -77.01911260282914
+  latitude: 41.24001466853191
+  type: [EN, O, D]
+
+beacon:
+  name: The Beacon
+  time:
+    Friday: ["19:00"]
+  place: Christ United Methodist Church
+  address: 146 S Main St, Hughesville, PA, 17737
+  longitude: -76.71338190282782
+  latitude: 41.275433191986664
+  type: [EN, O, D]
+
+friday-night:
+  name: Friday Night Big Book
+  time:
+    Friday: ["19:00"]
+  place: Faxon-Kenmar UMC 
+  address: 1301 Clayton Ave, Williamsport, PA, 17701
+  longitude: -76.96753791817211
+  latitude: 41.2546268081509
+  type: [EN, O, D, X]
+
+saturday-morning:
+  name: Saturday Morning Big Book
+  time:
+    Saturday: ["10:00"]
+  place: First Church of Christ
+  address: 1250 Almond St, Williamsport, PA, 17701
+  longitude: -76.98752144885924
+  latitude: 41.25440420804083
+  note: Masks are optional.
+  type: [EN, O, D, X]
+
+saturday-night:
+  name: Saturday Night Group
+  time:
+    Saturday: ["19:00"]
+  place: Picture Rocks UMC
+  address: 57 Laurel St, Picture Rocks, PA, 17762
+  longitude: -76.71411052571986
+  latitude: 41.28044460449095
+  type: [EN, C, D]
