@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Newsletters
 menu:
   main:
     weight: 25

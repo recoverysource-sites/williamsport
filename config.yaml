@@ -3,7 +3,6 @@ title: Greater Williamsport AA
 
 languageCode: en-us
 theme: [williamsport, aamod, mainroad]
-sectionPagesMenu: main
 paginate: 100
 buildFuture: true
 
@@ -42,6 +41,8 @@ Params:
         url: https://www.aa.org/
       - title: A.A. Grapevine
         url: http://www.aagrapevine.org/
+      - title: District 48 Business
+        url: /business/
 
 markup:
   goldmark:

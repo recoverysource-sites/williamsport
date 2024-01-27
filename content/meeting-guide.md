@@ -1,4 +1,5 @@
 ---
+title: Meetings
 outputs: [json]
 url: "/meeting-guide.json"
 ---

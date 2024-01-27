@@ -2,7 +2,7 @@
 title: Contact Us
 menu:
   main:
-    weight: 30
+    weight: 50
 ---
 
 District 48 AA can be contacted using the following options:
