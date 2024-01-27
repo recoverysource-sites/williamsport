@@ -7,6 +7,6 @@ menu:
 
 Meetings which are currently in need of support:
 
-- Friday Morning St. Ann's Meeting
-- Friday Night New Freedom Group
-- Sunday Night Big Book Meeting
+- [Friday Morning St. Ann's Meeting](/meetings/friday-morning)
+- [Friday Night New Freedom Group](/meetings/up-the-creek)
+- [Sunday Night Big Book Meeting](/meetings/sunday-bigbook)
