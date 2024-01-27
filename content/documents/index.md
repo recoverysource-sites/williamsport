@@ -2,11 +2,15 @@
 title: Helpful Documents
 ---
 
-External Links:
+External Links
+--------------
 
 - [AA Pamphlets](https://www.recoveryshop.com/Alcoholics-Anonymous-Pamphlets-s/160.htm?searching=Y&sort=7&cat=160&show=150&page=1)
 
-District 48 Business:
+District 48
+-----------
+
+Documents created by District 48 for operational purposes.
 
 - [District 48 Current Service Manual](./D48_Service_Handbook_v5.pdf)
 - [District 48 Reimbursement Form (Blank)](./D48_reimbursement.pdf)
@@ -19,7 +23,10 @@ District 48 Business:
 - [Re-entry/contact form](./reenttrycontactform.pdf)
 - [AA Guidelines for Conferences, Conventions, etc.](./conferenceguidelines_9_2016.pdf)
 
-Archived Documents (Fair Use Reproductions):
+Archived Documents
+------------------
+
+Used for discussion; reproduced in good faith of Fair Use.
 
 - [Problems other than alcohol](./problems.pdf)
 - [Bill's Letter on the Lord's Prayer](./letterprayer.pdf)

@@ -8,11 +8,14 @@ menu:
 District 48 AA can be contacted using the following options:
 
 - **Email:** webchair@district48aa.org
-- **Meeting:** Second Wednesday of every month @ 7:00PM at [Montoursville Step Group](/meetings/montoursville-group/)
+- **Meeting:** Second Wednesday of every month @ 7:00PM\
+  at [Montoursville Step Group](/meetings/montoursville-group/)
 - **Mail:**\
   PO Box 303\
   Williamsport, PA  17701
-- **Contributions:** [Paypal](https://www.paypal.com/donate/?hosted_button_id=VRXXS6Z28UMKL)
+
+
+We accept 7th-Tradition **Contributions** using [Paypal](https://www.paypal.com/donate/?hosted_button_id=VRXXS6Z28UMKL).
 
 Please note: Although we can try to help you locate a meeting in an area you
 may be visiting soon, you will be served much faster and more effectively if
