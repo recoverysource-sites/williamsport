@@ -35,7 +35,7 @@ Params:
     aasites:
       cached: true
       links:
-      - title: A.A. Area 59 (Eastern PA)
+      - title: Area 59 (Eastern PA)
         url: https://area59aa.org/
       - title: A.A. World Services
         url: https://www.aa.org/
@@ -43,6 +43,8 @@ Params:
         url: http://www.aagrapevine.org/
       - title: District 48 Business
         url: /business/
+      - title: District 48 History
+        url: /history/
 
 markup:
   goldmark:
