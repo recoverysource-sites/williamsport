@@ -1,4 +1,13 @@
 body {
-	background-image:url("/img/outlook2.jpg");
-	background-attachment:fixed;
+	background-image: url("/img/outlook2.jpg");
+	background-attachment: fixed;
+}
+
+.logo__tagline {
+	color: darkblue;
+	font-size: 0.9rem;
+}
+
+.logo__text {
+	text-shadow: lightgray -1px 0px, lightgray 0px 1px, lightgray 1px 0px, lightgray 0px -1px;
 }

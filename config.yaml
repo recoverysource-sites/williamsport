@@ -16,6 +16,7 @@ Params:
   logo:
     image: img/AAlogo.png
     title: Greater Williamsport Area AA
+    subtitle: Area 59 District 48 - Eastern Pennsylvania General Service Assembly
   toc: true
   mainSections: [home, meetings, about, events]
   sidebar:
