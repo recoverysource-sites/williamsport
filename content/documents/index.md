@@ -12,7 +12,9 @@ District 48
 
 Documents created by District 48 for operational purposes.
 
-- [District 48 Current Service Manual](./D48_Service_Handbook_v5.pdf)
+- [District 48 Current Service Manual (current)](./D48_Service_Handbook_v5.pdf)
+- [District 48 Current Service Manual (pre-2015)](./D48_Service_Handbook10_14_15.pdf)
+- [District 48 Current Service Manual (ca. 1999)](./D48_Service_Handbook_ca1999.pdf)
 - [District 48 Reimbursement Form (Blank)](./D48_reimbursement.pdf)
 - [2018 Hotline Volunteers (Blank)](./Hotline_Volunteers_2018_Blank.pdf)
 - [Handout for Hotline Volunteers](./hotlinehandout.pdf)

@@ -2,7 +2,7 @@
 title: District 48 History
 ---
 
-Historical documentation of origins for district and each meeting within:
+Historical records showing the origins of this district and meetings within.
 
 - [District Origination](./district48history.pdf)
 - [A Common Solution](./acommonsolution.pdf)
