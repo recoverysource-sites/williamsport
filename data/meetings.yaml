@@ -46,6 +46,7 @@ wake-up-sober:
   name: Wake Up Sober
   time:
     Sunday: ["10:00"]
+  place: online
   address: zoom,Online-Only,,
   longitude: -1
   latitude: -1
@@ -59,6 +60,7 @@ pass-it-on:
   name: Pass It On
   time:
     Monday: ["19:00"]
+  place: online
   address: zoom,Online-Only,,
   longitude: -1
   latitude: -1
