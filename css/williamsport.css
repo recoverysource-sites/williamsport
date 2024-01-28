@@ -1,6 +1,10 @@
 body {
-	background-image: url("/img/outlook2.jpg");
+	background-image: url("/img/outlook2.webp");
 	background-attachment: fixed;
+}
+
+.header__container {
+	background-image: url("/img/clouds.webp");
 }
 
 .logo__tagline {
