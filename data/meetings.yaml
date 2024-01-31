@@ -95,6 +95,15 @@ the-solution:
   name: The Solution
   time:
     Sunday: ["19:00"]
+  place: S. Williamsport UMC
+  address: 409 Main St, South Williamsport, PA, 17702
+  longitude: -76.99072051816263
+  latitude: 41.23234673135839
+  type: [EN, O, D, X]
+
+fourth-dimension:
+  name: Fourth Dimension Group
+  time:
     Wednesday: ["10:00"]
   place: S. Williamsport UMC
   address: 409 Main St, South Williamsport, PA, 17702
@@ -147,10 +156,20 @@ lunch-hour-group:
   latitude: 41.240563354589376
   type: [EN, O]
 
-muncy-crossroads:
-  name: Muncy Crossroads Meeting
+muncy-crossroads-mon:
+  name: Monday Muncy Meeting
   time:
     Monday: ["12:00"]
+  place: Crossroads Church
+  address: 628 E Penn St, Muncy, PA, 17756
+  longitude: -76.7717056316663
+  latitude: 41.205375840361185
+  note: Masks are optional.
+  type: [EN, O, D, X]
+
+muncy-crossroads-thu:
+  name: Thursday Muncy Meeting
+  time:
     Thursday: ["12:00"]
   place: Crossroads Church
   address: 628 E Penn St, Muncy, PA, 17756
@@ -159,11 +178,29 @@ muncy-crossroads:
   note: Masks are optional.
   type: [EN, O, D, X]
 
-muncy-umc:
-  name: Muncy UMC Meeting
+muncy-umc-wed:
+  name: Wednesday Night Muncy
   time:
     Wednesday: ["19:00"]
+  place: First UMC Muncy
+  address: 602 S Market St, Muncy, PA, 17756
+  longitude: -76.78776729118955
+  latitude: 41.193709285418926
+  type: [EN, O, D, X]
+
+muncy-umc-thu:
+  name: As Bill Sees It Plus
+  time:
     Thursday: ["19:00"]
+  place: First UMC Muncy
+  address: 602 S Market St, Muncy, PA, 17756
+  longitude: -76.78776729118955
+  latitude: 41.193709285418926
+  type: [EN, O, D, X]
+
+muncy-umc-sat:
+  name: Early Risers
+  time:
     Saturday: ["08:00"]
   place: First UMC Muncy
   address: 602 S Market St, Muncy, PA, 17756
@@ -185,10 +222,20 @@ step-11-meditation:
       <br /><br />This is a Special Interest group.
   type: [EN, O, D]
 
-pine-street:
-  name: Pine Street Group
+acceptance-is-key:
+  name: Acceptance is the Key
   time:
     Monday: ["19:00"]
+  place: Pine Street Methodist Church
+  address: 441 Pine St, Williamsport, PA, 17701
+  longitude: -77.0048617316649
+  latitude: 41.24227158728978
+  note: Use side entrance (Wesley Hall)
+  type: [EN, O, D, X]
+
+williamsport-group:
+  name: Williamsport Group
+  time:
     Tuesday: ["19:00"]
   place: Pine Street Methodist Church
   address: 441 Pine St, Williamsport, PA, 17701
@@ -197,10 +244,19 @@ pine-street:
   note: Use side entrance (Wesley Hall)
   type: [EN, O, D, X]
 
-duboistown:
-  name: Duboistown Group
+duboistown-mon:
+  name: Monday Night Duboistown
   time:
     Monday: ["19:00"]
+  place: Duboistown Church
+  address: 133 Summer St, Duboistown, PA, 17702
+  longitude: -77.03318124700044
+  latitude: 41.22566692375747
+  type: [EN, O, D]
+
+duboistown-thu:
+  name: Thursday Night Duboistown
+  time:
     Thursday: ["19:00"]
   place: Duboistown Church
   address: 133 Summer St, Duboistown, PA, 17702
@@ -295,11 +351,29 @@ free-to-be:
   note: 1st Floor / Other Space / Allen Street side
   type: [EN, O, D, X]
 
+plain-and-simple:
+  name: Plain and Simple Meeting
+  time:
+    Wednesday: ["19:00"]
+  place: West End Christian Community Center
+  address: 901 Diamond St, Williamsport, PA, 17701
+  longitude: -77.05608453350429
+  latitude: 41.23952273270303
+  type: [EN, O, D, X]
+
+new-freedom:
+  name: New Freedom Group
+  time:
+    Friday: ["19:00"]
+  place: West End Christian Community Center
+  address: 901 Diamond St, Williamsport, PA, 17701
+  longitude: -77.05608453350429
+  latitude: 41.23952273270303
+  type: [EN, O, D, X]
+
 up-the-creek:
   name: Up the Creek Meeting
   time:
-    Wednesday: ["19:00"]
-    Friday: ["19:00"]
     Saturday: ["19:00"]
   place: West End Christian Community Center
   address: 901 Diamond St, Williamsport, PA, 17701
@@ -329,7 +403,7 @@ jersey-shore-step:
   type: [EN, O]
 
 williamsport-women:
-  name: Williamsport Womens Meeting
+  name: Women's Meeting
   time:
     Thursday: ["19:00"]
   place: First United Methodist Church
