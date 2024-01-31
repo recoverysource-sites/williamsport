@@ -1,5 +1,6 @@
 ---
 title: Helpful Documents
+menu: side
 ---
 
 External Links

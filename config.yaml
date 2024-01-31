@@ -22,7 +22,7 @@ Params:
   sidebar:
     single: right
     home: right
-    widgets: [resources, eventsidemenu, aasites]
+    widgets: [resources, eventsidemenu, sidemenu, aasites]
   widgets:
 
     resources:
@@ -36,12 +36,6 @@ Params:
     aasites:
       cached: true
       links:
-      - title: District 48 Business
-        url: /business/
-      - title: District 48 History
-        url: /history/
-      - title: Helpful Documents
-        url: /documents/
       - title: Area 59 (Eastern PA)
         url: https://area59aa.org/
       - title: A.A. World Services

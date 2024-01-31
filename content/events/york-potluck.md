@@ -1,7 +1,7 @@
 ---
 title: York Potluck
 date: 2024-01-28
-menu: side
+menu: events
 ---
 
 **When:** Sunday, 28 January 2024

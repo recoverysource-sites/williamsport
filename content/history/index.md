@@ -1,5 +1,6 @@
 ---
 title: District 48 History
+menu: side
 ---
 
 Historical records showing the origins of this district and meetings within.

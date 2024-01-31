@@ -1,7 +1,7 @@
 ---
 title: Our Love for AA Dinner Dance
 date: 2024-02-17
-menu: side
+menu: events
 ---
 
 **When:** Saturday, 17 February 2024

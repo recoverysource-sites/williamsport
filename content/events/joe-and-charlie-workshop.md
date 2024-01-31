@@ -1,7 +1,7 @@
 ---
 title: 2024 The Big Book Comes Alive!
 date: 2024-02-18
-menu: side
+menu: events
 ---
 
 **Joe & Charlie Workshop**
