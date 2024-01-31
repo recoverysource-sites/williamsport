@@ -3,15 +3,6 @@ body {
 	background-attachment: fixed;
 }
 
-.header__container {
-	background-image: url("/img/clouds.webp");
-}
-
 .logo__tagline {
-	color: darkblue;
 	font-size: 0.9rem;
-}
-
-.logo__text {
-	text-shadow: lightgray -1px 0px, lightgray 0px 1px, lightgray 1px 0px, lightgray 0px -1px;
 }
