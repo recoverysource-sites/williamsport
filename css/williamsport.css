@@ -6,3 +6,11 @@ body {
 .logo__tagline {
 	font-size: 0.9rem;
 }
+
+.menu__list {
+	background: #417686;
+}
+
+.btn {
+	background: #417686;
+}
