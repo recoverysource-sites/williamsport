@@ -3,14 +3,26 @@ body {
 	background-attachment: fixed;
 }
 
+.header__container {
+	background: #9dc0c9;
+}
+
 .logo__tagline {
 	font-size: 0.9rem;
 }
 
 .menu__list {
-	background: #417686;
+	background: #376879;
 }
 
 .btn {
-	background: #417686;
+	background: #376879;
+}
+
+.content a {
+	color: #538704;
+}
+
+.widget-sidemenu a {
+	color: #538704;
 }
