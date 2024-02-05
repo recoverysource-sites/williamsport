@@ -1,4 +1,4 @@
-baseURL: https://williamsport.recoverysource.io/
+baseURL: https://aa59-48.sobersupport.group/
 title: Greater Williamsport AA
 
 languageCode: en-us
@@ -8,7 +8,7 @@ buildFuture: true
 
 Params:
   description: Greater Williamsport Area (District 53) Alcoholics Anonymous
-  source: https://github.com/recoverysource/williamsport
+  source: https://github.com/recoverysource-sites/williamsport
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
   mapapikey: "AIzaSyB5hKG5VIASVlBBaDjNXUYxmw3CR_wSzLY"
   copyright: Greater Williamsport Area AA

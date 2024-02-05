@@ -2,7 +2,7 @@
 # Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
 # Documentation: https://recoverysource.io/aamod/prebuild.html
 ##
-baseURL: https://district48aa.org/
+baseURL: https://aa59-48.sobersupport.group/
 title: Greater Williamsport AA
 
 # List of content to build
@@ -44,8 +44,8 @@ pdf-blurbs:
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   # Links to additional resources on back of folded booklet
   resources: |
-    {\7pt\textbf{Williamsport Area:} district48aa.org/meetings}\\
-    {\7pt\textbf{Eastern PA:} area59aa.org}
+    {\7pt\textbf{Williamsport:} aa59-48.sober.page/meetings}\\
+    {\7pt\textbf{Eastern PA:} aa59.sober.page}
   # Informational box on bottom-right of back (second) page
   details: |
     \textbf{District 48 Meeting}\\
