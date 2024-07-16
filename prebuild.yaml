@@ -2,7 +2,7 @@
 # Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
 # Documentation: https://recoverysource.io/aamod/prebuild.html
 ##
-baseURL: https://aa59-48.sobersupport.group/
+baseURL: https://aa59-48.sober.page/
 title: Greater Williamsport AA
 
 # List of content to build
