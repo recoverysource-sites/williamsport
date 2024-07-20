@@ -10,7 +10,7 @@ Params:
   description: Greater Williamsport Area (District 53) Alcoholics Anonymous
   source: https://github.com/recoverysource-sites/williamsport
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
-  mapapikey: "AIzaSyB5hKG5VIASVlBBaDjNXUYxmw3CR_wSzLY"
+  mapapikey: "AIzaSyBg0f3NSXw5LfhVa4etDaCgZJw7qIIS_Z0"
   copyright: Greater Williamsport Area AA
   phone: 570-666-1448
   logo:
