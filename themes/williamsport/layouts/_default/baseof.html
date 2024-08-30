@@ -44,12 +44,14 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
+	{{- $server := "" }}
+	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
+		{{ $server = hugo.IsServer }}
+	{{- else }}
+		{{ $server = .Site.IsServer }}
+	{{- end -}}
+	{{- if not $server }}
 		{{ template "_internal/google_analytics.html" . }}
-		{{- else }}
-		{{ template "_internal/google_analytics_async.html" . }}
-		{{- end }}
 	{{- end }}
 </head>
 <body class="body">
