@@ -5,6 +5,8 @@ menu:
     weight: 10
 ---
 
+**NOTICE: This is a demonstration website! For the official website, please visit https://district48aa.org/.**
+
 If you are looking for a way to stop drinking, you have come to the right place!
 Use the menu above to find local meetings, events, and ways to contact A.A. If
 you are unable to locate what you are looking for [contact us](/contact/) via
